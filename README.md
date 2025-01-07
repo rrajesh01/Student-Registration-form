@@ -1,2 +1,2 @@
 # Student-Registration-form
-Java script
+HTML CSS Java script
